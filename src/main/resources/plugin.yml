@@ -1,0 +1,8 @@
+name: Leveled
+version: '${project.version}'
+main: levelchemistry.leveled.Leveled
+api-version: 1.18
+prefix: Level Chemistry Inventory
+authors: [ Sundry ]
+description: A simple inventory checker!
+website: levelchemistry.com
